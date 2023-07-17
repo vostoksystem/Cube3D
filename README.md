@@ -22,7 +22,7 @@ The purpose was to test :
 - loading screen
 
 
-##Legacy
+## Legacy
 This project was made several years ago, I didn't go through with unity3D, not the engine wasn't good but I followed a different professional
 path and had no time to keep working on this side project.
 
@@ -31,18 +31,18 @@ I'm releasing the code because since it's a full workable project it can be usef
 Keep in mind **this project is unmaintained** ! Don't ask for any help I won't be able to help you.
 In a matter of fact, I can't even guaranty it will open on the current editor without error (but It should be easily fixed).
 
-##Install / open
+## Install / open
 This is the full Unity3d's project's directory (minus the library). Just point it to the directory you clone/unziped the project)
 
 
-##Binary / screenshots
+## Binary / screenshots
 ==================
 alongside the code I build it for some targets for Linux, windows, android. Binaries and screenshot can be found here : 
 
 [http://vostoksystem.com/cube3d](http://vostoksystem.com/cube3d)
 
 
-##License
+## License
 Open source, Either you use part of it, I would just ask for a mention on my name.
 If you think it worth including on a tutorial database, be my guest!
 
