@@ -1,0 +1,15 @@
+menu.resume = Continuer
+menu.classic = Classique
+menu.big = Grand
+menu.huge = Démentiel ! 
+menu.rate = Noter moi !
+
+tuto.title = Comment jouer
+tuto.camera = Voir
+tuto.rotate = Tourner
+tuto.select = Sélectionner
+tuto.move = Déplacer
+tuto.win = Gagné !
+
+game.score = Tours : %1
+game.win = Vous avez réussi !

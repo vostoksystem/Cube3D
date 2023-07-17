@@ -1,0 +1,15 @@
+menu.resume = Jatkaa
+menu.classic = Perinteinen
+menu.big = Iso
+menu.huge = Valtava !
+menu.rate = Huomautus
+
+tuto.title = Kuinka pelata
+tuto.camera = Näkökulma
+tuto.rotate = Pyöriä
+tuto.select = Valita
+tuto.move = Vaihtaa
+tuto.win = Voittoisa
+
+game.score = Tulos : %1
+game.win = Olet onnistunut !

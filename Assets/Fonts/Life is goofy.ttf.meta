@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d990c21e1fa1747ee9b916e7ab580f07
+timeCreated: 1508432020
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Life is goofy
+  fontNames:
+  - Life is goofy
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

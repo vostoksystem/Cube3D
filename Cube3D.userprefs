@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Manager/StateManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Manager/StateManager.cs" Line="141" Column="33" />
+      <File FileName="Assets/Scripts/Manager/GameProgressManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Manager/GameEventTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Vi18n/vi18nTextController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Vi18n/vi18nManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Cube/CubeController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Cube/Cube3x3Matrix.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Cube/AbstractMatrix.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

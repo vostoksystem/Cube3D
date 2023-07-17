@@ -1,0 +1,16 @@
+menu.resume = Resume
+menu.classic = Classic
+menu.big = Big
+menu.huge = Insane ! 
+menu.rate = Rate me !
+
+tuto.title = How to play
+tuto.camera = Viewpoint
+tuto.rotate = Rotate
+tuto.select = Select
+tuto.move = Shift
+tuto.win = You win !
+
+game.score = Move : %1
+game.win = You did it !
+

@@ -1,0 +1,33 @@
+# this is a language template for unity3d vi18n plugin 
+# for each languages your game will support,copy this file into your asset (or create a new one with a file manager)
+# rename it as a 2 digits code like en.txt, fr.txt, de.txt...
+
+# add a VI18nManager on a (permanent / static) gameobject to your game.
+# drag each translation file onto the source property (you may need to set size first )
+# verify that the default language exist and it set correctly (default to en)
+
+# this is a comment
+
+# this is a key - value couple
+hello = Hello !
+
+# for convenience you can name key like this
+menu.start = Start game
+menu.file.open = Open
+
+# key are case sensitive
+men.Akey = value for Akey
+menu.akey = different value
+
+# key and value are trimed, you can use indent if you like
+     menu.foo     =   an other value
+     
+# value can be multiline 
+help.anInfo = this is a value \
+on multiple lines \
+beware any spaces or tab is therefore part of the value
+
+# value for a font is an url relative to Asset/Resources and without the file type extention
+# so for myGame/Assets/Resources/Fonts/NewGameFont.ttf :
+base.font = Fonts/NewGameFont
+

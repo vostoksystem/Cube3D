@@ -1,0 +1,15 @@
+menu.resume = Weitermachen
+menu.classic = Regulär
+menu.big = Groß
+menu.huge =Riesig
+menu.rate = Bewerten
+
+tuto.title = Wie man dieses Spiel spielt
+tuto.camera = Aussichtspunkt
+tuto.rotate = Drehen
+tuto.select = Auswählen
+tuto.move = Verschieben
+tuto.win = Gewinnst !
+
+game.score = Stand : %1
+game.win = Du hast es geschafft !
